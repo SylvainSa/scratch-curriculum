@@ -21,7 +21,7 @@ Suivre le pointeur de souris
 
 Étape 2 : Félix poursuit Herbert
 
-Étape 3 : Félix parle quand il a attrapé Herbert
+Étape 3 : Félix parle quand il attrape Herbert
 
 Étape 4 : Herbert devient un fantôme quand il se fait attraper
 
